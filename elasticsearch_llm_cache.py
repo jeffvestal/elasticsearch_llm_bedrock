@@ -109,7 +109,7 @@ class ElasticsearchLLMCache:
             }
             self.es.update(index=self.index_name, id=doc_id, body=update_body)
             
-            return resp['hits']['hits'][0]['fields']
+            return resp['hits']['hits'][0]['fields']['response'][0]
 
 
     def _generate_vector(self,
