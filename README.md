@@ -1,7 +1,10 @@
 # Elasticsearch RAG with Amazon Bedrock
 
 # Demo Video
-[movie_recomenderbot_with_bedrock_and_cache.mp4](movie_recomenderbot_with_bedrock_and_cache.mp4)
+![caching layer with rag.png](caching%20layer%20with%20rag.png)
+
+
+[------->> Click for short mp4 video <<-----](movie_recomenderbot_with_bedrock_and_cache.mp4)
 
 # Setup
 
