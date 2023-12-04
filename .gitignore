@@ -1,1 +1,6 @@
 config-real.sh
+utils/*
+AWSCLIV2.pkg
+.DS_Store
+.idea/*
+bedrockLLM_with_ES_RAG_Cache-box workingkindof.py

@@ -25,4 +25,5 @@ response = bedrock.invoke_model(body=body, modelId="anthropic.claude-v2")
 
 response_body = json.loads(response.get("body").read())
 print(response_body.get("completion"))
-print(response_body)
+print(response_body)e
+print(bedrock.count_tokens)
