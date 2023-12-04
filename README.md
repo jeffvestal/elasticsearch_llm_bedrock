@@ -1,5 +1,8 @@
 # Elasticsearch RAG with Amazon Bedrock
 
+# Demo Video
+[movie_recomenderbot_with_bedrock_and_cache.mp4](movie_recomenderbot_with_bedrock_and_cache.mp4)
+
 # Setup
 
 ## AWS CLI
