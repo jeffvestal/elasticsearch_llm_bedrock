@@ -6,6 +6,9 @@
 
 [------->> Click for short mp4 video <<-----](movie_recomenderbot_with_bedrock_and_cache.mp4)
 
+# LLM Caching Layer
+This app uses the [elasticsearch_llm_caching python library in pypi](https://pypi.org/project/elasticsearch-llm-cache/)
+
 # Setup
 
 ## AWS CLI
